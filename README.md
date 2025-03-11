@@ -1,3 +1,4 @@
-#Install shell-justfootball
-# sudo apt install git
-# link 
+# Install shell-justfootball
+#sudo apt install git
+#link
+# Code 
